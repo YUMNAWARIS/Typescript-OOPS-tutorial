@@ -1,0 +1,25 @@
+Constructors in Typescript
+
+- constructor is a reserved keyword in Typescript
+- a method which is called when we create the object/instance of a class
+- in Typescript we can create only one constructor, multiple constructors are not allowed
+- this keyword refers to current instance of the class
+- parameters can be optional
+- optional parameters are written in the last
+
+constructor(<parameters>){
+    <body>
+}
+
+class Point {
+  x: number;
+  y: number;
+ 
+  // Normal signature with defaults
+  constructor(x = 0, y = 0) {
+    this.x = x;
+    this.y = y;
+  }
+}
+
+- constructor can be overloaded...
