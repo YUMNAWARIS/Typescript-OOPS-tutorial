@@ -1,0 +1,23 @@
+{
+  "name": "oops",
+  "version": "1.0.0",
+  "description": "Object Oriented Programming Concepts in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUMNAWARIS/Typescript-OOPS-tutorial.git"
+  },
+  "keywords": [
+    "TS",
+    "OOPS"
+  ],
+  "author": "Yumna Waris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUMNAWARIS/Typescript-OOPS-tutorial/issues"
+  },
+  "homepage": "https://github.com/YUMNAWARIS/Typescript-OOPS-tutorial#readme"
+}
