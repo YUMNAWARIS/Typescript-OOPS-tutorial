@@ -1,0 +1,4 @@
+Constructor and shorthand Initializer
+
+eg. 
+construct(public id;public name){} 
