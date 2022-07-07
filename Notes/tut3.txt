@@ -1,0 +1,16 @@
+     Access Modifier in Typescript
+    ===============================
+
+- Three Types:   
+    1. public
+    2. private
+    3. protected
+- By default members of a class are public in Typescript 
+- public = members are accessible outside the class
+- private = only accessible to that class only, outside class they are no longer accessible
+protected = accessible through derived class or child class
+
+Read Only Property
+- Does not support in javascript
+- you can get the value of variable but cannot change the value
+
